@@ -1,6 +1,6 @@
 # DS4002_CS3_Fake_News
 ## Important Information
-This GitHub repository contains all the necessary materials for CS3. The folders incluse the data, the scripts, and the supplemental materials with a rubric, a hook document, and a README file. 
+This GitHub repository contains all the necessary materials for CS3. The folders include the data, the scripts, and the supplemental materials with a rubric, a hook document, and a README file. 
 ## Data
 The data set was too large to upload into GitHub, so information about how to find the data set can be found in the README file within the data folder. Additionally, a cleaned CSV file can be found within the data folder. 
 ## References 
