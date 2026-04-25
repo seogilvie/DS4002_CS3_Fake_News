@@ -7,5 +7,6 @@ The data set was too large to upload into GitHub, so information about how to fi
 [1]Filippo Menczer, “Misinformation on social media: Can technology save us?,” The Conversation, Mar. 29, 2019. https://theconversation.com/misinformation-on-social-media-can-technology-save-us-69264
 
 [2] “ISOT Fake News Dataset.” Available: https://onlineacademiccommunity.uvic.ca/isot/wp-content/uploads/sites/7295/2023/02/ISOT_Fake_News_Dataset_ReadMe.pdf.
+
 [3]L. Sanders, “How well can Americans distinguish real news headlines from fake ones?,” Yougov.com, 2023. https://yougov.com/en-us/articles/45855-americans-distinguish-real-fake-news-headline-poll
 
